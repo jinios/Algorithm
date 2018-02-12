@@ -27,4 +27,5 @@ func selectionSort(target: [Int]) -> [Int] {
     return newArr
 }
 
-selectionSort(target: testArr)
+selectionSort(target: testArr) // result: [1, 2, 3, 4, 7, 10]
+
