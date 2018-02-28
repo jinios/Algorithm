@@ -1,0 +1,5 @@
+# Ignore .xcplayground 
+
+timeline.xctimeline
+playground.xcworkspace
+
