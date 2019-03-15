@@ -28,3 +28,6 @@ func binarySearch<T: Comparable>(arr: [T], key: T, range: Range<Int>) -> Int? {
 }
 
 binarySearch(arr: numbers, key: 29, range: 0..<numbers.count)
+
+
+
